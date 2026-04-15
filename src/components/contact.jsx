@@ -64,8 +64,8 @@ export default function Contact({ language }) {
 
         <div className="grid md:grid-cols-3 gap-8">
           {/* Phone */}
-          <div className="bg-slate-800/50 backdrop-blur-sm p-8 rounded-2xl border border-slate-700 hover:border-teal-500/50 transition duration-300">
-            <div className="flex items-center justify-center w-14 h-14 bg-teal-900/50 rounded-full text-teal-400 mb-6 mx-auto">
+          <div className="bg-slate-800/50 backdrop-blur-sm p-8 rounded-2xl border border-slate-700 hover:border-[#c5a044] transition duration-300">
+            <div className="flex items-center justify-center w-14 h-14 bg-teal-900/50 rounded-full text-[#c5a044] mb-6 mx-auto">
               <Phone className="h-6 w-6" />
             </div>
             <h3 className="text-xl font-bold text-center mb-4">{t.phone}</h3>
@@ -77,7 +77,7 @@ export default function Contact({ language }) {
           </div>
 
           {/* Email */}
-          <div className="bg-slate-800/50 backdrop-blur-sm p-8 rounded-2xl border border-slate-700 hover:border-teal-500/50 transition duration-300">
+          <div className="bg-slate-800/50 backdrop-blur-sm p-8 rounded-2xl border border-slate-700 hover:border-[#c5a044] transition duration-300">
             <div className="flex items-center justify-center w-14 h-14 bg-blue-900/50 rounded-full text-blue-400 mb-6 mx-auto">
               <Mail className="h-6 w-6" />
             </div>
@@ -86,7 +86,7 @@ export default function Contact({ language }) {
           </div>
 
           {/* Address */}
-          <div className="bg-slate-800/50 backdrop-blur-sm p-8 rounded-2xl border border-slate-700 hover:border-teal-500/50 transition duration-300">
+          <div className="bg-slate-800/50 backdrop-blur-sm p-8 rounded-2xl border border-slate-700 hover:border-[#c5a044] transition duration-300">
             <div className="flex items-center justify-center w-14 h-14 bg-purple-900/50 rounded-full text-purple-400 mb-6 mx-auto">
               <MapPin className="h-6 w-6" />
             </div>

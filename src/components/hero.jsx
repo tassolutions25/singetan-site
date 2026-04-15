@@ -38,12 +38,12 @@ export default function Hero({ language }) {
           <h1 className="text-5xl md:text-7xl font-extrabold mb-6 text-balance tracking-tight drop-shadow-lg">
             {t.title}
           </h1>
-          <p className="text-xl md:text-3xl text-teal-100 mb-10 text-balance font-light">
+          <p className="text-xl md:text-3xl text-[#c5a044] mb-10 text-balance font-light">
             {t.subtitle}
           </p>
           <a
             href="#services"
-            className="inline-block bg-[#0b47a8] hover:bg-teal-500 text-white font-bold py-4 px-10 rounded-full transition transform hover:scale-105 shadow-lg border border-teal-400/30 backdrop-blur-sm"
+            className="inline-block bg-[#0b47a8] hover:bg-[#c5a044] text-white font-bold py-4 px-10 rounded-full transition transform hover:scale-105 shadow-lg border border-teal-400/30 backdrop-blur-sm"
           >
             {t.cta}
           </a>

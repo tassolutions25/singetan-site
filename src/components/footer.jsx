@@ -97,32 +97,32 @@ export default function Footer({ language }) {
             <h4 className="font-semibold mb-4">{t.businessLines}</h4>
             <ul className="space-y-2 text-sm text-slate-400">
               <li>
-                <a href="#services" className="hover:text-teal-400 transition">
+                <a href="#services" className="hover:text-[#c5a044] transition">
                   {t.ethioTelecom}
                 </a>
               </li>
               <li>
-                <a href="#services" className="hover:text-teal-400 transition">
+                <a href="#services" className="hover:text-[#c5a044] transition">
                   {t.stationery}
                 </a>
               </li>
               <li>
-                <a href="#services" className="hover:text-teal-400 transition">
+                <a href="#services" className="hover:text-[#c5a044] transition">
                   {t.cosmetics}
                 </a>
               </li>
               <li>
-                <a href="#services" className="hover:text-teal-400 transition">
+                <a href="#services" className="hover:text-[#c5a044] transition">
                   {t.cafe}
                 </a>
               </li>
               <li>
-                <a href="#services" className="hover:text-teal-400 transition">
+                <a href="#services" className="hover:text-[#c5a044] transition">
                   {t.wholesale}
                 </a>
               </li>
               <li>
-                <a href="#services" className="hover:text-teal-400 transition">
+                <a href="#services" className="hover:text-[#c5a044] transition">
                   {t.coffee}
                 </a>
               </li>
@@ -134,17 +134,17 @@ export default function Footer({ language }) {
             <h4 className="font-semibold mb-4">{t.quickLinks}</h4>
             <ul className="space-y-2 text-sm text-slate-400 mb-6">
               <li>
-                <a href="#vision" className="hover:text-teal-400 transition">
+                <a href="#vision" className="hover:text-[#c5a044] transition">
                   {t.visionMission}
                 </a>
               </li>
               <li>
-                <a href="#services" className="hover:text-teal-400 transition">
+                <a href="#services" className="hover:text-[#c5a044] transition">
                   {t.services}
                 </a>
               </li>
               <li>
-                <a href="#contact" className="hover:text-teal-400 transition">
+                <a href="#contact" className="hover:text-[#c5a044] transition">
                   {t.contact}
                 </a>
               </li>
@@ -154,28 +154,28 @@ export default function Footer({ language }) {
               {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
               <a
                 href="#"
-                className="text-slate-400 hover:text-teal-400 transition"
+                className="text-slate-400 hover:text-[#c5a044] transition"
               >
                 <Facebook size={20} />
               </a>
               {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
               <a
                 href="#"
-                className="text-slate-400 hover:text-teal-400 transition"
+                className="text-slate-400 hover:text-[#c5a044] transition"
               >
                 <Twitter size={20} />
               </a>
               {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
               <a
                 href="#"
-                className="text-slate-400 hover:text-teal-400 transition"
+                className="text-slate-400 hover:text-[#c5a044] transition"
               >
                 <Linkedin size={20} />
               </a>
               {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
               <a
                 href="#"
-                className="text-slate-400 hover:text-teal-400 transition"
+                className="text-slate-400 hover:text-[#c5a044] transition"
               >
                 <Instagram size={20} />
               </a>

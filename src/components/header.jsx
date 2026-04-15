@@ -20,8 +20,8 @@ export default function Header({ language, setLanguage }) {
       contact: "ግንኙነት",
     },
     om: {
-      home: "Muka",
-      about: "Waa'uu Keenya",
+      home: "Mana",
+      about: "Waa'ee Keenya",
       services: "Tajaajiloota",
       contact: "Quunnamtii",
     },
@@ -48,27 +48,27 @@ export default function Header({ language, setLanguage }) {
             </div>
           </div>
 
+          {/* Desktop Navigation - FIXED: Now uses translations */}
           <nav className="hidden md:flex gap-8 items-center font-medium">
             <a href="#" className="hover:text-[#c5a044] transition">
-              Home
+              {t.home}
             </a>
             <a href="#about" className="hover:text-[#c5a044] transition">
-              About
+              {t.about}
             </a>
             <a href="#services" className="hover:text-[#c5a044] transition">
-              Services
+              {t.services}
             </a>
             <a href="#contact" className="hover:text-[#c5a044] transition">
-              Contact
+              {t.contact}
             </a>
           </nav>
 
-          {/* Language Selector & Mobile Menu */}
           <div className="flex items-center gap-4">
             <select
               value={language}
               onChange={(e) => setLanguage(e.target.value)}
-              className="bg-[#083681] text-white px-3 py-2 rounded text-sm border border-[#c5a044] outline-none"
+              className="bg-[#083681] text-white px-3 py-2 rounded text-sm border border-[#c5a044] outline-none cursor-pointer"
             >
               <option value="en">English</option>
               <option value="am">አማርኛ</option>
@@ -85,20 +85,23 @@ export default function Header({ language, setLanguage }) {
 
         {/* Mobile Navigation */}
         {mobileMenuOpen && (
-          <nav className="md:hidden pb-4 flex flex-col gap-3 border-t border-slate-700 pt-4">
-            <a href="#home" className="hover:text-teal-400 transition block">
+          <nav className="md:hidden pb-4 flex flex-col gap-3 border-t border-blue-900 pt-4">
+            <a href="#" className="hover:text-[#c5a044] transition block">
               {t.home}
             </a>
-            <a href="#about" className="hover:text-teal-400 transition block">
+            <a href="#about" className="hover:text-[#c5a044] transition block">
               {t.about}
             </a>
             <a
               href="#services"
-              className="hover:text-teal-400 transition block"
+              className="hover:text-[#c5a044] transition block"
             >
               {t.services}
             </a>
-            <a href="#contact" className="hover:text-teal-400 transition block">
+            <a
+              href="#contact"
+              className="hover:text-[#c5a044] transition block"
+            >
               {t.contact}
             </a>
           </nav>
