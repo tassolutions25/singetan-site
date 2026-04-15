@@ -75,7 +75,7 @@ export default function Services({ language }) {
         },
         {
           name: "ካፌ እና ሬስቶራንት",
-          description: "ምግብ እና መጠጦች በደህና ሁኔታ።",
+          description: "ምግብ እና መጠጦች በቆንጆ ሁኔታ።",
           image:
             "https://images.unsplash.com/photo-1550547660-d9450f859349?q=80&w=1965&auto=format&fit=crop",
         },
