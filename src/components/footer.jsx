@@ -26,7 +26,7 @@ export default function Footer({ language }) {
         "Jemo 3 Square, Sheger, Furi",
       ],
       email: "Email: Obsinet@gmail.com",
-      phones: ["Phone: +251 912 663 660", "Phone: 0911752862 / 0981800600"],
+      phones: ["Phone: 0998500000/ 0981800600"],
       copyright: `© ${currentYear} Singetan Business Group PLC. All rights reserved.`,
     },
     am: {
@@ -50,7 +50,7 @@ export default function Footer({ language }) {
         "ጀሞ 3 አደባባይ፣ ሸገር፣ ፉሪ",
       ],
       email: "ኢሜይል: Obsinet@gmail.com",
-      phones: ["ስልክ: +251 912 663 660", "ስልክ: 0911752862 / 0981800600"],
+      phones: ["ስልክ: 0998500000/ 0981800600"],
       copyright: `© ${currentYear} ሲንጌታን ንግድ ቡድን ፒ.ኤል.ሲ. ሁሉም መብቶች የተጠበቁ ናቸው።`,
     },
     om: {
@@ -75,7 +75,7 @@ export default function Footer({ language }) {
         "Jemo 3 Square, Shaggar, Furii",
       ],
       email: "Imeelii: Obsinet@gmail.com",
-      phones: ["Bilbila: +251 912 663 660", "Bilbila: 0911752862 / 0981800600"],
+      phones: ["Bilbila: 0998500000/ 0981800600"],
       copyright: `© ${currentYear} Garee Daldalaa Singetan PLC. Midhaan hunduu ni eegamtu.`,
     },
   };

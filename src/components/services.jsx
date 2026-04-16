@@ -29,8 +29,7 @@ export default function Services({ language }) {
           name: "Cafe & Restaurant",
           description:
             "Serving delicious food, burgers, and beverages in a welcoming atmosphere.",
-          image:
-            "https://images.unsplash.com/photo-1550547660-d9450f859349?q=80&w=1965&auto=format&fit=crop", // Burgers/Food (Matches your image)
+          image: "/food.jpeg", // Burgers/Food (Matches your image)
         },
         {
           name: "Wholesale Distribution",
@@ -72,8 +71,7 @@ export default function Services({ language }) {
         {
           name: "ካፌ እና ሬስቶራንት",
           description: "ምግብ እና መጠጦች በቆንጆ ሁኔታ።",
-          image:
-            "https://images.unsplash.com/photo-1550547660-d9450f859349?q=80&w=1965&auto=format&fit=crop",
+          image: "/food.jpeg",
         },
         {
           name: "ጅምላ ስርጭት",
@@ -113,8 +111,7 @@ export default function Services({ language }) {
         {
           name: "Cafe & Restaurant",
           description: "Nyaata fi dhugaatii midhaa haala jaalala keessatti.",
-          image:
-            "https://images.unsplash.com/photo-1550547660-d9450f859349?q=80&w=1965&auto=format&fit=crop",
+          image: "/food.jpeg",
         },
         {
           name: "Gurgurtaa Jimla",

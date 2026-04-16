@@ -5,10 +5,10 @@ export default function AboutUs({ language }) {
     en: {
       sectionLabel: "About Our Group",
       mainHeading: "Building The Future Together",
-      established: "SINCE 2017",
+      established: "SINCE 2016",
       tagline: "Excellence in Ethiopia",
       story:
-        "Founded in 2017 by Mr. Addisu Katama Jote, Singetan Business Group PLC has grown into a dynamic and diversified company. Our foundation is built on integrity, customer satisfaction, and a deep-rooted commitment to sustainable growth within our community.",
+        "Founded in 2016 by Mr. Addisu Katama Jote, Singetan Business Group PLC has grown into a dynamic and diversified company. Our foundation is built on integrity, customer satisfaction, and a deep-rooted commitment to sustainable growth within our community.",
       visionTitle: "Our Vision",
       visionText:
         "To be a leading and innovative business group recognized for excellence, integrity, and sustainable growth, empowering our stakeholders and making a positive impact.",
@@ -22,7 +22,7 @@ export default function AboutUs({ language }) {
       established: "ከ2009 ጀምሮ",
       tagline: "ልህቀት በኢትዮጵያ",
       story:
-        "በ2017 (2009 ዓ.ም) በአቶ አዲሱ ከተማ ጆቴ የተመሰረተው ሲንጌታን ቢዝነስ ግሩፕ ኃ/የተ/የግ/ማህበር ወደ ተለዋዋጭ እና የተለያዩ ዘርፎች ወዳለው ኩባንያ አድጓል። መሠረታችን በታማኝነት፣ በደንበኞች እርካታ እና በማህበረሰባችን ውስጥ ለዘላቂ እድገት ባለን ጥልቅ ቁርጠኝነት ላይ የተገነባ ነው።",
+        "በ2016 (2009 ዓ.ም) በአቶ አዲሱ ከተማ ጆቴ የተመሰረተው ሲንጌታን ቢዝነስ ግሩፕ ኃ/የተ/የግ/ማህበር ወደ ተለዋዋጭ እና የተለያዩ ዘርፎች ወዳለው ኩባንያ አድጓል። መሠረታችን በታማኝነት፣ በደንበኞች እርካታ እና በማህበረሰባችን ውስጥ ለዘላቂ እድገት ባለን ጥልቅ ቁርጠኝነት ላይ የተገነባ ነው።",
       visionTitle: "ራዕይ",
       visionText:
         "በላቀ፣ በአቋም እና በዘላቂ እድገት፣ ባለድርሻዎቻችንን በማብቃት እና በማህበረሰባችን ውስጥ አወንታዊ ተፅእኖ በመፍጠር መሪ መሆን።",
@@ -33,10 +33,10 @@ export default function AboutUs({ language }) {
     om: {
       sectionLabel: "Waa'ee Garee Keenyaa",
       mainHeading: "Gara Fuulduraa Waliin Ijaarru",
-      established: "BARA 2017 JALQABEE",
+      established: "BARA 2016 JALQABEE",
       tagline: "Itoophiyaa Keessatti Olaantummaa",
       story:
-        "Bara 2017tti Obbo Addisuu Katamaa Joteetiin kan hundeeffame, Gareen Daldalaa Singetan gara dhaabbata daldalaa garaagaraatti guddateera. Hundeen keenya amanamaa ta'uu, quuqa dhabuun maamiltootaa fi guddina hawaasa keenyaa irratti kan xiyyeeffate dha.",
+        "Bara 2016tti Obbo Addisuu Katamaa Joteetiin kan hundeeffame, Gareen Daldalaa Singetan gara dhaabbata daldalaa garaagaraatti guddateera. Hundeen keenya amanamaa ta'uu, quuqa dhabuun maamiltootaa fi guddina hawaasa keenyaa irratti kan xiyyeeffate dha.",
       visionTitle: "Mul'ata",
       visionText:
         "Garee daldalaa adda duree fi kalaqaan hojjetamee fi olaantummaa, qulqullinaa fi guddina itti fufiinsa qabu ta'uu.",

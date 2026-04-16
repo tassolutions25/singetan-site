@@ -10,7 +10,7 @@ export default function Contact({ language }) {
       phone: "Phone",
       email: "Email",
       address: "Address",
-      phoneNumbers: ["+251 912 663 660", "0911752862", "0981800600"],
+      phoneNumbers: ["0998500000", "0981800600"],
       emailAddr: "Obsinet@gmail.com",
       addresses: [
         "Nifas Silk Lafto Sub-city, Haile Garment, behind CBE Kotari Branch, Addis Ababa",
@@ -23,7 +23,7 @@ export default function Contact({ language }) {
       phone: "ስልክ",
       email: "ኢሜይል",
       address: "አድራሻ",
-      phoneNumbers: ["+251 912 663 660", "0911752862", "0981800600"],
+      phoneNumbers: ["0998500000", "0981800600"],
       emailAddr: "Obsinet@gmail.com",
       addresses: [
         "ንፋስ ስልክ ላፍቶ ክ/ከተማ፣ ሀይሌ ጋርመንት፣ ከኢትዮጵያ ንግድ ባንክ ኮተሪ ቅርንጫፍ ጀርባ",
@@ -36,7 +36,7 @@ export default function Contact({ language }) {
       phone: "Bilbila",
       email: "Imeelii",
       address: "Teessoo",
-      phoneNumbers: ["+251 912 663 660", "0911752862", "0981800600"],
+      phoneNumbers: ["0998500000", "0981800600"],
       emailAddr: "Obsinet@gmail.com",
       addresses: [
         "K/magaalaa Nifas Silk Lafto, Haile Garment, Baankii Daldalaa Itoophiyaa damee Kotari duuba",
