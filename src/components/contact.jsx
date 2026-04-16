@@ -11,7 +11,7 @@ export default function Contact({ language }) {
       email: "Email",
       address: "Address",
       phoneNumbers: ["+251 912 663 660", "0911752862", "0981800600"],
-      emailAddr: "info@singetan.com",
+      emailAddr: "Obsinet@gmail.com",
       addresses: [
         "Nifas Silk Lafto Sub-city, Haile Garment, behind CBE Kotari Branch, Addis Ababa",
         "Sheger, Furi Sub-city, Around Jemo 3 Square",
@@ -24,7 +24,7 @@ export default function Contact({ language }) {
       email: "ኢሜይል",
       address: "አድራሻ",
       phoneNumbers: ["+251 912 663 660", "0911752862", "0981800600"],
-      emailAddr: "info@singetan.com",
+      emailAddr: "Obsinet@gmail.com",
       addresses: [
         "ንፋስ ስልክ ላፍቶ ክ/ከተማ፣ ሀይሌ ጋርመንት፣ ከኢትዮጵያ ንግድ ባንክ ኮተሪ ቅርንጫፍ ጀርባ",
         "ሸገር፣ ፉሪ ክፍለ ከተማ፣ ከጀሞ 3 አደባባይ አካባቢ",
@@ -37,7 +37,7 @@ export default function Contact({ language }) {
       email: "Imeelii",
       address: "Teessoo",
       phoneNumbers: ["+251 912 663 660", "0911752862", "0981800600"],
-      emailAddr: "info@singetan.com",
+      emailAddr: "Obsinet@gmail.com",
       addresses: [
         "K/magaalaa Nifas Silk Lafto, Haile Garment, Baankii Daldalaa Itoophiyaa damee Kotari duuba",
         "Shaggar, Kutaa magaalaa Furii, Naannoo Jemo 3 Square",

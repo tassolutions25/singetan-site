@@ -10,8 +10,7 @@ export default function Services({ language }) {
           name: "Ethio Telecom Partnership",
           description:
             "Exclusive distributor for Telebirr, airtime, SIM cards, and mobile devices.",
-          image:
-            "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=2070&auto=format&fit=crop", // Tech/Telecom abstract
+          image: "/ethiotelecom.jpg", // Tech/Telecom abstract
         },
         {
           name: "Stationery Supplies",
@@ -24,8 +23,7 @@ export default function Services({ language }) {
           name: "Cosmetics & Sanitary",
           description:
             "High-quality personal care, makeup, and sanitary products for modern needs.",
-          image:
-            "https://www.finalsu.com/site-upload/site-images/buyuk/1623357321-kozmetik-ve-hijyen-urunleri.jpg", // Cosmetics Flatlay (Matches your image)
+          image: "/sanitary.jpg", // Cosmetics Flatlay (Matches your image)
         },
         {
           name: "Cafe & Restaurant",
@@ -58,8 +56,7 @@ export default function Services({ language }) {
           name: "የኢትዮ ቴሌኮም አጋርነት",
           description:
             "እንደ ቴሌብር፣ የአየር ሰዓት፣ ሲም ካርዶች ያሉ የኢትዮ ቴሌኮም ምርቶች ልዩ አከፋፋይ።",
-          image:
-            "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=2070&auto=format&fit=crop",
+          image: "/ethiotelecom.jpg",
         },
         {
           name: "ስቴሽነሪ",
@@ -70,8 +67,7 @@ export default function Services({ language }) {
         {
           name: "ኮስሞቲክስ እና ሳኒተሪ",
           description: "ከፍተኛ ጥራት ያለው ግላዊ እንክብካቤ እና ሳኒተሪ ምርቶች።",
-          image:
-            "https://www.finalsu.com/site-upload/site-images/buyuk/1623357321-kozmetik-ve-hijyen-urunleri.jpg",
+          image: "/sanitary.jpg",
         },
         {
           name: "ካፌ እና ሬስቶራንት",
@@ -101,8 +97,7 @@ export default function Services({ language }) {
           name: "Walta'iinsa Itiyo-Telekoom",
           description:
             "Raabsaa addaa oomishaalee Itiyo-Telekoom kanneen akka Telebirr, yeroo bilbilaa, fi kaardii SIM.",
-          image:
-            "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=2070&auto=format&fit=crop",
+          image: "/ethiotelecom.jpg",
         },
         {
           name: "Stationery",
@@ -113,8 +108,7 @@ export default function Services({ language }) {
         {
           name: "Cosmetics & Sanitary",
           description: "Midhaa midhaa jidha fi sanitary qulqullina olaanaa.",
-          image:
-            "https://www.finalsu.com/site-upload/site-images/buyuk/1623357321-kozmetik-ve-hijyen-urunleri.jpg",
+          image: "/sanitary.jpg",
         },
         {
           name: "Cafe & Restaurant",
