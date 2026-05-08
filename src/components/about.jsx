@@ -5,10 +5,10 @@ export default function AboutUs({ language }) {
     en: {
       sectionLabel: "About Our Group",
       mainHeading: "Building The Future Together",
-      established: "SINCE 2016",
+      established: "SINCE 2024",
       tagline: "Excellence in Ethiopia",
       story:
-        "Founded in 2016 by Mr. Addisu Katama Jote, Singetan Business Group PLC has grown into a dynamic and diversified company. Our foundation is built on integrity, customer satisfaction, and a deep-rooted commitment to sustainable growth within our community.",
+        "Founded in 2024 by Mr. Addisu Katama Jote, Singetan Business Group PLC has grown into a dynamic and diversified company. Our foundation is built on integrity, customer satisfaction, and a deep-rooted commitment to sustainable growth within our community.",
       visionTitle: "Our Vision",
       visionText:
         "To be a leading and innovative business group recognized for excellence, integrity, and sustainable growth, empowering our stakeholders and making a positive impact.",
@@ -19,10 +19,10 @@ export default function AboutUs({ language }) {
     am: {
       sectionLabel: "ስለ ቡድናችን",
       mainHeading: "የወደፊቱን አብረን እንገነባለን",
-      established: "ከ2009 ጀምሮ",
+      established: "ከ2016 ዓ.ም ጀምሮ",
       tagline: "ልህቀት በኢትዮጵያ",
       story:
-        "በ2016 (2009 ዓ.ም) በአቶ አዲሱ ከተማ ጆቴ የተመሰረተው ሲንጌታን ቢዝነስ ግሩፕ ኃ/የተ/የግ/ማህበር ወደ ተለዋዋጭ እና የተለያዩ ዘርፎች ወዳለው ኩባንያ አድጓል። መሠረታችን በታማኝነት፣ በደንበኞች እርካታ እና በማህበረሰባችን ውስጥ ለዘላቂ እድገት ባለን ጥልቅ ቁርጠኝነት ላይ የተገነባ ነው።",
+        "በ2016 ዓ.ም በአቶ አዲሱ ከተማ ጆቴ የተመሰረተው ሲንጌታን ቢዝነስ ግሩፕ ኃ/የተ/የግ/ማህበር ወደ ተለዋዋጭ እና የተለያዩ ዘርፎች ወዳለው ኩባንያ አድጓል። መሠረታችን በታማኝነት፣ በደንበኞች እርካታ እና በማህበረሰባችን ውስጥ ለዘላቂ እድገት ባለን ጥልቅ ቁርጠኝነት ላይ የተገነባ ነው።",
       visionTitle: "ራዕይ",
       visionText:
         "በላቀ፣ በአቋም እና በዘላቂ እድገት፣ ባለድርሻዎቻችንን በማብቃት እና በማህበረሰባችን ውስጥ አወንታዊ ተፅእኖ በመፍጠር መሪ መሆን።",
